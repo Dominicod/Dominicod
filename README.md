@@ -1,6 +1,6 @@
 # Hello, folks!
 
-My name is Dominic O'Donnell and I'm a software developer who specalizes in back-end technologies. I'm from New Jeresy, living in Texas and currently a student at Turing School of Software and Design. You can find me on [Linked-In][3.2].
+My name is Dominic O'Donnell and I'm a software developer who specalizes in back-end technologies. I'm from New Jeresy, living in Texas and currently a student at Turing School of Software and Design. You can find me on [Linked-In][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=77b6ea)![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=MacOS&logoColor=white&color=77b6ea)![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visual-idea&logoColor=white&color=77b6ea)![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=77b6ea)![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=77b6ea)![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=77b6ea)![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=77b6ea)![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=77b6ea)![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=77b6ea)
