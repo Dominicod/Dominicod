@@ -1,4 +1,4 @@
-# Hello, folks!
+# Hey ya'll!
 
 My name is Dominic O'Donnell and I'm a software developer who specalizes in back-end technologies. I'm from New Jeresy, living in Texas and currently a student at Turing School of Software and Design. You can find me on [Linked-In][3].
 
