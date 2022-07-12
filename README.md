@@ -26,8 +26,8 @@ A sample of my recent articles:
 <br>
 <a href="https://github.com/Dominicod/portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dominicod&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a><a href="https://github.com/Dominicod/flash_cards">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dominicod&repo=flash_cards&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a><a href="https://github.com/Dominicod/dlorg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dominicod&repo=dlorg&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!-- links to social media icons -->
