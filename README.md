@@ -19,15 +19,15 @@ A sample of my recent articles:
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Dominicod/Dominicod">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dominicod&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominicod&hide=html,css&theme=tokyonight&langs_count=3" />
 </a><a href="https://github.com/Dominicod/Dominicod">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dominicod&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dominic's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dominicod&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&" alt="Dominic's GitHub Stats" />
 </a>
 <br>
 <a href="https://github.com/Dominicod/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dominicod&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dominicod&repo=portfolio&title_color=ffffff&text_color=c9cacc&theme=tokyonight" />
 </a><a href="https://github.com/Dominicod/dlorg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dominicod&repo=dlorg&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dominicod&repo=dlorg&title_color=ffffff&text_color=c9cacc&theme=tokyonight" />
 </a>
 
 <!-- links to social media icons -->
