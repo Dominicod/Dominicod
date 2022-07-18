@@ -14,6 +14,7 @@ A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
 - [Version Control, and why its important](https://blog.dominwrites.com/programming/version_control/)
+- [Ruby Fundamentals](https://blog.dominwrites.com/programming/ruby-fundamentals/)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
