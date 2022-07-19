@@ -1,5 +1,5 @@
 # Hey ya'll!
-My name is ## Dominic O'Donnell;
+My name is Dominic O'Donnell;
 
 I am a lifelong learner who loves helping people and creating an impact, and that motivation led me to the service industry. I started my career as a waiter, and moved into bartending. I loved the opportunities I had to connect with guests on an individual level. However, I wanted to move my skills into a more impactful environment and after some exploration, I found that my love for learning, helping people, and creating an impact could be found in the career of software development. I now aim to increase my impact on the world by creating amazing applications that let me help people of all types while fulfilling my desire to learn. You can find me on [Linked-In][3].
 
