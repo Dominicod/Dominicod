@@ -32,10 +32,10 @@ A sample of my recent articles:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dominicod&repo=dlorg&title_color=ffffff&text_color=c9cacc&theme=tokyonight" />
 </a>
 <a href="https://github.com/Dominicod/battle_ships">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dominicod&repo=dlorg&title_color=ffffff&text_color=c9cacc&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dominicod&repo=battle_ships&title_color=ffffff&text_color=c9cacc&theme=tokyonight" />
 </a>
 <a href="https://github.com/Dominicod/mod_assessments">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dominicod&repo=dlorg&title_color=ffffff&text_color=c9cacc&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dominicod&repo=mod_assessments&title_color=ffffff&text_color=c9cacc&theme=tokyonight" />
 </a>
 
 <!-- links to social media icons -->
