@@ -17,6 +17,7 @@ A sample of my recent articles:
 - [Ruby Fundamentals](https://blog.dominwrites.com/programming/ruby-fundamentals/)
 - [Ruby Operators](https://blog.dominwrites.com/programming/ruby-operators/)
 - [Version Control, and why its important](https://blog.dominwrites.com/programming/version_control/)
+- [The Four Pillars Of OOP](https://blog.dominwrites.com/programming/the-four-pillars-of-object-orientated-programming/)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
