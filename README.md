@@ -23,7 +23,7 @@ A sample of my recent articles:
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Dominicod/Dominicod">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominicod&hide=html,css&theme=tokyonight&langs_count=4" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominicod&hide=html,css&theme=tokyonight&langs_count=3" />
 </a><a href="https://github.com/Dominicod/Dominicod">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dominicod&count_private=true&show_icons=true&theme=tokyonight" alt="Dominic's GitHub Stats" />
 </a>
