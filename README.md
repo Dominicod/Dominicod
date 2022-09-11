@@ -14,7 +14,7 @@ I also write a blog! I write about all types of tech related content. A list of 
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ruby Fundamentals](https://blog.dominwrites.com/programming/ruby-fundamentals/)
+- [Dockerize an existing rails application](https://blog.dominwrites.com/programming/rails/dockerize-an-existing-rails-application/)
 - [Ruby Operators](https://blog.dominwrites.com/programming/ruby-operators/)
 - [Version Control, and why its important](https://blog.dominwrites.com/programming/version_control/)
 - [The Four Pillars Of OOP](https://blog.dominwrites.com/programming/the-four-pillars-of-object-orientated-programming/)
