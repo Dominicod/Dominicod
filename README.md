@@ -25,7 +25,7 @@ A sample of my recent articles:
 <a href="https://github.com/Dominicod/Dominicod">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominicod&hide=html,css,scss&theme=tokyonight&langs_count=3" />
 </a><a href="https://github.com/Dominicod/Dominicod">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dominicod&count_private=true&show_icons=true&theme=tokyonight" alt="Dominic's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dominicod&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Dominic's GitHub Stats" />
 </a>
 <br>
 <a href="https://github.com/Dominicod/portfolio">
