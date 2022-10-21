@@ -30,12 +30,12 @@ A sample of my recent articles:
 <br>
 <a href="https://github.com/Dominicod/portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dominicod&repo=portfolio&title_color=ffffff&text_color=c9cacc&theme=tokyonight" />
-</a><a href="https://github.com/Dominicod/dlorg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dominicod&repo=dlorg&title_color=ffffff&text_color=c9cacc&theme=tokyonight" />
-</a><a href="https://github.com/Dominicod/battle_ships">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dominicod&repo=battle_ships&title_color=ffffff&text_color=c9cacc&theme=tokyonight" />
-</a><a href="https://github.com/Dominicod/enigma">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dominicod&repo=enigma&title_color=ffffff&text_color=c9cacc&theme=tokyonight" />
+</a><a href="https://github.com/Dominicod/rails-engine-lite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dominicod&repo=rails-engine-lite&title_color=ffffff&text_color=c9cacc&theme=tokyonight" />
+</a><a href="https://github.com/Dominicod/viewing_party_lite-1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dominicod&repo=viewing_party_lite-1&title_color=ffffff&text_color=c9cacc&theme=tokyonight" />
+</a><a href="https://github.com/Dominicod/little-esty-shop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dominicod&repo=little-esty-shop&title_color=ffffff&text_color=c9cacc&theme=tokyonight" />
 </a>
 
 <!-- links to social media icons -->
