@@ -42,8 +42,6 @@ A sample of my recent articles:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dominicod&repo=little-esty-shop&title_color=ffffff&text_color=c9cacc&theme=tokyonight" />
 </a>
 
-<!-- links to social media icons -->
-
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
