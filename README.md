@@ -35,12 +35,12 @@ A sample of my recent articles:
 <br>
 <a href="https://github.com/Dominicod/portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dominicod&repo=portfolio&title_color=ffffff&text_color=c9cacc&theme=tokyonight" />
-</a><a href="https://github.com/Dominicod/rails-engine-lite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dominicod&repo=rails-engine-lite&title_color=ffffff&text_color=c9cacc&theme=tokyonight" />
+</a><a href="https://github.com/Dominicod/Lunch_and_Learn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dominicod&repo=Lunch_and_Learn&title_color=ffffff&text_color=c9cacc&theme=tokyonight" />
 </a><a href="https://github.com/Dominicod/viewing_party_lite-1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dominicod&repo=viewing_party_lite-1&title_color=ffffff&text_color=c9cacc&theme=tokyonight" />
-</a><a href="https://github.com/Dominicod/little-esty-shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dominicod&repo=little-esty-shop&title_color=ffffff&text_color=c9cacc&theme=tokyonight" />
+</a><a href="https://github.com/TripWeather/trip_weather_be">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TripWeather&repo=trip_weather_be&title_color=ffffff&text_color=c9cacc&theme=tokyonight" />
 </a>
 
 <!-- icons with padding -->
