@@ -6,22 +6,8 @@ I am a Software Engineer who is an outgoing individual, always hungry to learn. 
 After working in the restaurant industry, I am absolutely comfortable working with people from all walks of life and love meeting new people and building long-lasting relationships with them. One of my main strongest skills is working through a complex problem in a team orientated setup, as I love having other input on the situation. I believe anything can be done if we work together. You can find me on [Linked-In][3].
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=77b6ea)![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=MacOS&logoColor=white&color=77b6ea)![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visual-idea&logoColor=white&color=77b6ea)![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=77b6ea)![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=77b6ea)![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=77b6ea)![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=77b6ea)![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=77b6ea)![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=77b6ea)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=77b6ea)![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=MacOS&logoColor=white&color=77b6ea)![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visual-idea&logoColor=white&color=77b6ea)![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=77b6ea)![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=77b6ea)![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=77b6ea)![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=77b6ea)![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=77b6ea)![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=77b6ea)![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=77b6ea)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=77b6ea)![](https://img.shields.io/badge/Tools-Apache-informational?style=flat&logo=apache&logoColor=white&color=77b6ea)![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=77b6ea)![](https://img.shields.io/badge/Tools-SQLite3-informational?style=flat&logo=sqlite&logoColor=white&color=77b6ea)![](https://img.shields.io/badge/Framework-Ruby_On_Rails-informational?style=flat&logo=ruby&logoColor=white&color=77b6ea)![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=77b6ea)
-
-## &#x270d; Blog & Writing
-
-I also write a blog! I write about all types of tech related content. A list of what I write about includes; Programming, Video games, Networking, and more. I love teaching technology and helping others along their path.I write at [blog.dominwrites.com](https://blog.dominwrites.com/). I also have a professional portfolio located: [dominwrites.com](https://dominwrites.com/).
-
-A sample of my recent articles:
-
-<!-- BLOG-POST-LIST:START -->
-- [Service Facade Design Pattern In Rails](https://blog.dominwrites.com/programming/rails/service_facade_design_rails/)
-- [Dockerize an existing rails application](https://blog.dominwrites.com/programming/rails/dockerize-an-existing-rails-application/)
-- [Ruby Operators](https://blog.dominwrites.com/programming/ruby-operators/)
-- [Version Control, and why its important](https://blog.dominwrites.com/programming/version_control/)
-- [The Four Pillars Of OOP](https://blog.dominwrites.com/programming/the-four-pillars-of-object-orientated-programming/)
-<!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
 
