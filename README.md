@@ -16,16 +16,6 @@ After working in the restaurant industry, I am absolutely comfortable working wi
 </a><a href="https://github.com/Dominicod/Dominicod">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dominicod&count_private=true&show_icons=true&theme=tokyonight" alt="Dominic's GitHub Stats" />
 </a>
-<br>
-<a href="https://github.com/Dominicod/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dominicod&repo=portfolio&title_color=ffffff&text_color=c9cacc&theme=tokyonight" />
-</a><a href="https://github.com/Dominicod/Lunch_and_Learn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dominicod&repo=Lunch_and_Learn&title_color=ffffff&text_color=c9cacc&theme=tokyonight" />
-</a><a href="https://github.com/Dominicod/viewing_party_lite-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dominicod&repo=viewing_party_lite-1&title_color=ffffff&text_color=c9cacc&theme=tokyonight" />
-</a><a href="https://github.com/TripWeather/trip_weather_be">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TripWeather&repo=trip_weather_be&title_color=ffffff&text_color=c9cacc&theme=tokyonight" />
-</a>
 
 <!-- icons with padding -->
 
