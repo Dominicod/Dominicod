@@ -1,4 +1,4 @@
-# Hey ya'll!
+# Hey y'all!
 My name is Dominic O'Donnell;
 
 I am a Software Engineer who is an outgoing individual, always hungry to learn. I enjoy solving problems daily and love brightening other people's days. This is the main reason why I love working in Software, as I see myself reaching these principles of who I am daily.
