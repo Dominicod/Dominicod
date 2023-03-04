@@ -1,9 +1,9 @@
 # Hey y'all!
 My name is Dominic O'Donnell;
 
-I am a Software Engineer who is an outgoing individual, always hungry to learn. I enjoy solving problems daily and love brightening other people's days. This is the main reason why I love working in Software, as I see myself reaching these principles of who I am daily.
+I am a driven Software Engineer, characterized by my outgoing personality and insatiable appetite for learning. I thrive on problem-solving and find fulfillment in bringing brightness to people's lives. It is this sense of purpose that draws me to the software industry, where I am constantly able to embody these values.
 
-After working in the restaurant industry, I am absolutely comfortable working with people from all walks of life and love meeting new people and building long-lasting relationships with them. One of my main strongest skills is working through a complex problem in a team orientated setup, as I love having other input on the situation. I believe anything can be done if we work together. You can find me on [Linked-In][3].
+My previous experience in the restaurant industry has equipped me with the confidence to interact effectively with individuals from all walks of life. I take pleasure in meeting new people and forging strong, lasting relationships with them. One of my greatest strengths is my ability to work collaboratively in a team-oriented setup, as I find immense value in receiving input from others. I firmly believe that anything is achievable with a collective effort. You can find me on [Linked-In][3].
 
 ## &#x1f4c8; GitHub Stats
 
