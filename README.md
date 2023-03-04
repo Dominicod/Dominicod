@@ -1,7 +1,7 @@
 # Hey ya'll!
 My name is Dominic O'Donnell;
 
-I am a Software Developer who is an outgoing individual, always hungry to learn. I enjoy solving problems daily and love brightening other people's days. This is the main reason why I am making a transition into Software, as I see myself reaching these principles of who I am daily.
+I am a Software Engineer who is an outgoing individual, always hungry to learn. I enjoy solving problems daily and love brightening other people's days. This is the main reason why I love working in Software, as I see myself reaching these principles of who I am daily.
 
 After working in the restaurant industry, I am absolutely comfortable working with people from all walks of life and love meeting new people and building long-lasting relationships with them. One of my main strongest skills is working through a complex problem in a team orientated setup, as I love having other input on the situation. I believe anything can be done if we work together. You can find me on [Linked-In][3].
 
