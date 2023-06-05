@@ -1,7 +1,7 @@
 # Hey y'all!
 My name is Dominic O'Donnell;
 
-I am a driven Software Engineer, characterized by my outgoing personality and appetite for learning. I thrive on problem-solving and find fulfillment in bringing brightness to people's lives. It is this sense of purpose that draws me to the software industry, where I am constantly able to embody these values.
+I am a driven Software Developer, characterized by my outgoing personality and appetite for learning. I thrive on problem-solving and find fulfillment in bringing brightness to people's lives. It is this sense of purpose that draws me to the software industry, where I am constantly able to embody these values.
 
 I possess expertise in building robust and secure back-end web applications, particularly with C#.NET, with complementary proficiency in front-end development. My enthusiasm for collaborative work finds a match in Agile environments, although I can adeptly acclimate to various work settings to deliver tangible results with efficiency.
 
