@@ -1,11 +1,11 @@
 # Hey y'all!
 My name is Dominic O'Donnell;
 
-I am a driven Software Developer, characterized by my outgoing personality and love for learning. I thrive on problem-solving and find fulfillment in bringing brightness to people's lives. It is this sense of purpose that draws me to the software industry, where I am constantly able to embody these values.
+I am a driven Software Developer, characterized by my outgoing personality and love for learning. I thrive on problem-solving and find enjoyment in helping others. It is this sense of purpose that draws me to the software industry, where I am constantly able to embody these values.
 
-I possess expertise in building robust, scalable, and maintainable back-end web applications, particularly with C#.NET. My enthusiasm for collaborative work finds a match in Agile environments, although I can acclimate to various work settings to deliver tangible results with efficiency.
+I possess expertise in building robust, scalable, and maintainable back-end web applications, particularly with C#.NET. My enthusiasm for collaborative work finds a match in Agile environments, although I can acclimate to various work settings to deliver results with efficiency.
 
-My previous experience in the restaurant industry has equipped me with the confidence to interact effectively with individuals from all walks of life. I enjoy meeting new people and forging strong, lasting relationships with them. One of my greatest strengths is my ability to work collaboratively in a team-oriented setup, as I find immense value in receiving input from others. I firmly believe that anything is achievable with a collective effort. You can find me on [Linked-In][3].
+My previous experience in the restaurant industry has equipped me with the confidence to interact effectively with individuals from all walks of life. I enjoy meeting new people and creating long lasting relationships with them. One of my greatest strengths is my ability to work collaboratively in a team-oriented setup, as I find immense value in receiving input from others. I firmly believe that anything is achievable with a collective effort.You can find me on [Linked-In][3].
 
 ## &#x1f4c8; GitHub Stats
 
