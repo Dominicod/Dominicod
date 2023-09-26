@@ -6,15 +6,6 @@ I am a driven Software Developer, characterized by my outgoing personality and l
 I possess expertise in building robust, scalable, and maintainable back-end web applications, particularly with C#.NET. My enthusiasm for collaborative work finds a match in Agile environments, although I can acclimate to various work settings to deliver results with efficiency.
 
 My previous experience in the restaurant industry has equipped me with the confidence to interact effectively with individuals from all walks of life. I enjoy meeting new people and creating long lasting relationships with them. One of my greatest strengths is my ability to work collaboratively in a team-oriented setup, as I find immense value in receiving input from others. I firmly believe that anything is achievable with a collective effort.You can find me on [Linked-In][3].
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/Dominicod/Dominicod">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominicod&hide=html,css,scss&theme=tokyonight&langs_count=3" />
-</a><a href="https://github.com/Dominicod/Dominicod">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dominicod&count_private=true&show_icons=true&theme=tokyonight" alt="Dominic's GitHub Stats" />
-</a>
-
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
