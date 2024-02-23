@@ -1,7 +1,7 @@
 # Hey y'all!
 My name is Dominic O'Donnell;
 
-Hello there! I am just a guy who loves building really cool applications in the best way he can. I am currently working at Seven Hills Technology creating web services in several different languages, primarily with React and C#/.NET. Outside of work, you'll find me toying with mixed reality software using Unity on my handy dandy Quest 3 or working on my web service side projects with C#/.NET.
+I am just a guy who loves building really cool applications in the best way he can. I am currently working at Seven Hills Technology creating web services in several different languages, primarily with React and C#/.NET. Outside of work, you'll find me toying with mixed reality software using Unity on my handy dandy Quest 3 or working on my web service side projects with C#/.NET.
 
 You can find me on [Linked-In][3].
 <!-- icons with padding -->
