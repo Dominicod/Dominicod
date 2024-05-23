@@ -1,7 +1,16 @@
 # Hey y'all!
 My name is Dominic O'Donnell;
 
-I am just a guy who loves building really cool applications in the best way he can. I am currently working at Seven Hills Technology creating web services in several different languages, primarily with React and C#/.NET. Outside of work, you'll find me toying with mixed reality software using Unity on my handy dandy Quest 3 or working on my web service side projects with C#/.NET.
+Currently, a Software Developer at Seven Hills Technology, where I have been working on innovative projects for an over a year and a half. My primary expertise lies in backend development with .NET and Azure to create robust and scalable solutions. Additionally, I have a solid understanding of front-end development, particularly with React.
+
+I am passionate about the evolving fields of Augmented Reality (AR) and Virtual Reality (VR). I love spending time on the weekends toying with Godot to see what I can do with this emerging technology
+
+Some of my skills include:
+* Programming Languages: C#, Ruby, JavaScript
+* Frameworks: .NET, React, Ruby on Rails
+* Tools: SQLSever, Postgres, HTML, CSS, Sass, Bootstrap, jQuery, Postman, XUnit
+* DevOps: Docker, Linux, Git, Azure, CI/CD (CircleCI, GitHub Actions)
+* Other: TDD, Agile (Jira), OOP, RESTful Development, Microservice Architecture, Event-Driven Architecture, Clean Architecture
 
 You can find me on [Linked-In][3].
 <!-- icons with padding -->
