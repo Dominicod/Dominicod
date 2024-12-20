@@ -1,7 +1,7 @@
 # 👋 Hey y'all!
 My name is Dominic O'Donnell;
 
-Currently, a Software Developer at Seven Hills Technology, where I have been working on innovative projects in various different domains for an over a year and a half. My primary expertise lies in backend development with .NET and Azure. Additionally, I have a solid understanding of front-end development, particularly with React.
+Currently, a Software Developer at Seven Hills Technology, where I have been working on innovative projects in various different domains for an over two years. My primary expertise lies in backend development with .NET and Azure. Additionally, I have a solid understanding of front-end development, particularly with React.
 
 I am passionate about the evolving field of spatial computing. I love spending time on the weekends toying with Unity/Godot to see what I can do with this emerging technology.
 
