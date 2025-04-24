@@ -1,7 +1,7 @@
 # 👋 Hey y'all!
 My name is Dominic O'Donnell;
 
-Currently, a Software Developer at Hone Health. My primary expertise lies in backend development with .NET and Azure. Additionally, I have a solid understanding of front-end development, particularly with React.
+Currently, a Software Engineer at Hone Health. My primary expertise lies in backend development with .NET and Azure. Additionally, I have a solid understanding of front-end development, particularly with React.
 
 I am passionate about the evolving field of spatial computing. I love spending time on the weekends toying with Unity/Godot to see what I can do with this emerging technology.
 
